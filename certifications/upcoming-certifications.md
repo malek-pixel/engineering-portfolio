@@ -4,11 +4,8 @@ Certifications planned to build on MATLAB Onramp and strengthen the engineering 
 
 ## Planned
 
-- **MathWorks - Simulink Onramp** - modeling and simulating dynamic systems, a natural next step after MATLAB Onramp
-- - **Data Analysis / Python certification** (provider TBD) - to formalize the pandas/NumPy skills used in the F1 Data Project
-  - - **Statistics fundamentals** - supporting future predictive-modeling work (see Future Projects)
-   
-    - ---
+Next up: MathWorks Simulink Onramp (modeling and simulating dynamic systems, a natural next step after MATLAB Onramp); a Data Analysis / Python certification, provider TBD (to formalize the pandas/NumPy skills used in the F1 Data Project); and a Statistics fundamentals course (supporting future predictive-modeling work, see Future Projects).
 
-    Status legend: Planned = not yet started. This page will move items to the completed list in the main README as they're finished.
-    
+## Status
+
+Planned means not yet started. This page will move items to the completed list in the main README as they're finished.
