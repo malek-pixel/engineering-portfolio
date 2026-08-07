@@ -8,10 +8,8 @@ MATLAB Onramp is MathWorks' free, self-paced introductory course covering the fu
 
 ## Why It Matters
 
-MATLAB is a standard tool in engineering computing, numerical analysis, and vehicle performance work - directly relevant to motorsport and automotive engineering. Completing this course was the starting point for the MATLAB work tracked in the projects/matlab.md page.
+MATLAB is a standard tool in engineering computing, numerical analysis, and vehicle performance work: directly relevant to motorsport and automotive engineering. Completing this course was the starting point for the MATLAB work tracked in the projects/matlab.md page.
 
 ## Related
 
-- [MATLAB projects](../projects/matlab.md)
-- - [Upcoming certifications](upcoming-certifications.md)
-  - 
+Related pages: [MATLAB projects](../projects/matlab.md) and [Upcoming certifications](upcoming-certifications.md).
